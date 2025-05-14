@@ -7,8 +7,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H0IX&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
